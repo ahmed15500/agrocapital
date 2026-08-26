@@ -1,0 +1,28 @@
+name: Export AgroCapital source
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/export-source.yml
+
+permissions:
+  contents: read
+
+jobs:
+  export-source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Package source
+        run: tar --exclude=.git -czf /tmp/agrocapital-source.tar.gz .
+
+      - name: Upload source archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: agrocapital-source
+          path: /tmp/agrocapital-source.tar.gz
+          retention-days: 1
