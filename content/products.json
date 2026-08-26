@@ -1,0 +1,176 @@
+[
+  {
+    "id": "olivic-zinc-15",
+    "slug": "olivic-zinc-15",
+    "name": {
+      "en": "Olivic Zinc 15%",
+      "ar": "أوليفك زنك 15%"
+    },
+    "category": {
+      "en": "Micronutrients",
+      "ar": "العناصر الصغرى"
+    },
+    "image": "/uploads/products/olivic-zinc-15-paper-sack-transparent.png",
+    "rotationVideo": "/uploads/products/olivic-zinc-15-rotation.mp4",
+    "composition": {
+      "en": "EDTA Chelated Zinc 15%",
+      "ar": "زنك مخلبي (EDTA) 15%"
+    },
+    "packageSize": {
+      "en": "1 kg",
+      "ar": "1 كجم"
+    },
+    "shortBenefit": {
+      "en": "Supports vegetative growth and helps correct zinc deficiency.",
+      "ar": "يدعم النمو الخضري ويساعد على تصحيح نقص الزنك."
+    },
+    "overview": {
+      "en": "Olivic Zinc 15% is an EDTA chelated zinc product supplied in a 1 kg package.",
+      "ar": "أوليفك زنك 15% منتج زنك مخلبي بتقنية EDTA ويأتي في عبوة 1 كجم."
+    },
+    "benefits": [
+      {
+        "en": "Supports vegetative growth",
+        "ar": "يدعم النمو الخضري"
+      },
+      {
+        "en": "Enhances flowering and yield",
+        "ar": "يعزز التزهير والإنتاج"
+      },
+      {
+        "en": "Corrects zinc deficiency",
+        "ar": "يصحح نقص الزنك"
+      },
+      {
+        "en": "Improves crop quality",
+        "ar": "يحسن جودة المحصول"
+      }
+    ],
+    "recommendedCrops": [],
+    "applicationMethod": {
+      "en": "",
+      "ar": ""
+    },
+    "usageRate": {
+      "en": "",
+      "ar": ""
+    },
+    "safetyInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "registrationInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "technicalSheet": "",
+    "featured": true
+  },
+  {
+    "id": "olivic-iron-6",
+    "slug": "olivic-iron-6",
+    "name": {
+      "en": "Olivic Iron 6%",
+      "ar": "أوليفك حديد 6%"
+    },
+    "category": {
+      "en": "Micronutrients",
+      "ar": "العناصر الصغرى"
+    },
+    "image": "/uploads/products/olivic-iron-6-paper-sack-transparent.png",
+    "composition": {
+      "en": "EDDHA Chelated Iron Powder; Fe content: 6%; O-O = 4.8; pH: 7.0-9.0",
+      "ar": "حديد مخلبي (EDDHA) مسحوق؛ محتوى الحديد: 6%؛ O-O = 4.8؛ pH: 7.0-9.0"
+    },
+    "packageSize": {
+      "en": "1 kg",
+      "ar": "1 كجم"
+    },
+    "shortBenefit": {
+      "en": "EDDHA chelated iron powder with 6% iron content.",
+      "ar": "مسحوق حديد مخلبي بتقنية EDDHA ومحتوى حديد 6%."
+    },
+    "overview": {
+      "en": "Olivic Iron 6% is an EDDHA chelated iron powder supplied in a 1 kg package.",
+      "ar": "أوليفك حديد 6% مسحوق حديد مخلبي بتقنية EDDHA ويأتي في عبوة 1 كجم."
+    },
+    "benefits": [],
+    "recommendedCrops": [],
+    "applicationMethod": {
+      "en": "",
+      "ar": ""
+    },
+    "usageRate": {
+      "en": "",
+      "ar": ""
+    },
+    "safetyInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "registrationInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "technicalSheet": "",
+    "featured": true
+  },
+  {
+    "id": "olivic-fulvate-70",
+    "slug": "olivic-fulvate-70",
+    "name": {
+      "en": "Olivic Fulvate 70%",
+      "ar": "اوليفك فوفلفات 70%"
+    },
+    "category": {
+      "en": "Humic and Fulvic Products",
+      "ar": "منتجات الهيوميك والفولفيك"
+    },
+    "image": "/uploads/products/olivic-fulvate-70-paper-sack-transparent.png",
+    "composition": {
+      "en": "Fulvic Acid 70%",
+      "ar": "حمض الفولفيك 70%"
+    },
+    "packageSize": {
+      "en": "1 kg",
+      "ar": "1 كجم"
+    },
+    "shortBenefit": {
+      "en": "Soil conditioner and growth stimulant.",
+      "ar": "محسن تربة ومنشط نمو."
+    },
+    "overview": {
+      "en": "Olivic Fulvate 70% is a fulvic acid product supplied in a 1 kg package.",
+      "ar": "اوليفك فوفلفات 70% منتج حمض فولفيك يأتي في عبوة 1 كجم."
+    },
+    "benefits": [
+      {
+        "en": "Soil conditioner",
+        "ar": "محسن تربة"
+      },
+      {
+        "en": "Growth stimulant",
+        "ar": "منشط نمو"
+      }
+    ],
+    "recommendedCrops": [],
+    "applicationMethod": {
+      "en": "",
+      "ar": ""
+    },
+    "usageRate": {
+      "en": "",
+      "ar": ""
+    },
+    "safetyInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "registrationInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "technicalSheet": "",
+    "featured": true
+  }
+]

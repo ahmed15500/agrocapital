@@ -1,0 +1,38 @@
+{
+  "company": {
+    "name": {
+      "en": "AgroCapital for International Trade",
+      "ar": "أجرو كابيتال للتجارة الدولية"
+    },
+    "domain": "agrocapital-eg.com",
+    "logo": "/uploads/agrocapital-logo.png",
+    "email": "",
+    "phone": "",
+    "whatsapp": "",
+    "address": {
+      "en": "",
+      "ar": ""
+    },
+    "workingHours": {
+      "en": "",
+      "ar": ""
+    },
+    "social": {
+      "facebook": "",
+      "linkedin": "",
+      "instagram": ""
+    }
+  },
+  "home": {
+    "heroImage": "/uploads/greenhouse-field.png",
+    "headline": {
+      "en": "Growing Value. Cultivating Success.",
+      "ar": "ننمّي القيمة. ونزرع النجاح."
+    },
+    "supportingText": {
+      "en": "AgroCapital provides reliable agricultural inputs and innovative crop solutions designed to improve plant health, productivity, and farming profitability.",
+      "ar": "تقدم أجرو كابيتال مدخلات زراعية موثوقة وحلولاً مبتكرة للمحاصيل تهدف إلى دعم صحة النبات والإنتاجية وربحية الزراعة."
+    }
+  },
+  "downloads": []
+}
