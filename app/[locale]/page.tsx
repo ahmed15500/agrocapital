@@ -38,7 +38,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const [site, products] = await Promise.all([getSiteData(), getProducts()]);
   const t = dict[locale];
   const featuredCategories = [catalogCategories[0], catalogCategories[1], catalogCategories[4], catalogCategories[7]];
-  const featuredProducts = products.filter((product) => product.featured).slice(0, 3);
+  const featuredProducts = products.filter((product) => product.featured).slice(0, 6);
 
   return (
     <main>

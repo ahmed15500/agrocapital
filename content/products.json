@@ -120,7 +120,7 @@
     "slug": "olivic-fulvate-70",
     "name": {
       "en": "Olivic Fulvate 70%",
-      "ar": "اوليفك فوفلفات 70%"
+      "ar": "أوليفك فولفات 70%"
     },
     "category": {
       "en": "Humic and Fulvic Products",
@@ -128,29 +128,37 @@
     },
     "image": "/uploads/products/olivic-fulvate-70-paper-sack-transparent.png",
     "composition": {
-      "en": "Fulvic Acid 70%",
-      "ar": "حمض الفولفيك 70%"
+      "en": "Fulvic Acid 70%; Amino Acid 5%; Potassium 12%; Solubility 99.9%; pH 5-7",
+      "ar": "حمض الفولفيك 70%؛ أحماض أمينية 5%؛ بوتاسيوم 12%؛ ذوبانية 99.9%؛ رقم حموضة 5-7"
     },
     "packageSize": {
-      "en": "1 kg",
-      "ar": "1 كجم"
+      "en": "1 kg and 10 kg",
+      "ar": "1 كجم و10 كجم"
     },
     "shortBenefit": {
-      "en": "Soil conditioner and growth stimulant.",
-      "ar": "محسن تربة ومنشط نمو."
+      "en": "Improves nutrient uptake, root growth, plant vigor and crop quality.",
+      "ar": "يحسن امتصاص العناصر ونمو الجذور وقوة النبات وجودة المحصول."
     },
     "overview": {
-      "en": "Olivic Fulvate 70% is a fulvic acid product supplied in a 1 kg package.",
-      "ar": "اوليفك فوفلفات 70% منتج حمض فولفيك يأتي في عبوة 1 كجم."
+      "en": "Olivic Fulvate 70% is a highly soluble fulvic acid product for stronger roots, nutrient uptake and crop performance.",
+      "ar": "أوليفك فولفات 70% منتج عالي الذوبان من حمض الفولفيك لدعم الجذور وامتصاص العناصر وأداء المحصول."
     },
     "benefits": [
       {
-        "en": "Soil conditioner",
-        "ar": "محسن تربة"
+        "en": "Improves nutrient uptake",
+        "ar": "يحسن امتصاص العناصر الغذائية"
       },
       {
-        "en": "Growth stimulant",
-        "ar": "منشط نمو"
+        "en": "Activates root growth",
+        "ar": "ينشط نمو الجذور"
+      },
+      {
+        "en": "Enhances plant vigor",
+        "ar": "يعزز قوة وحيوية النبات"
+      },
+      {
+        "en": "Increases yield and quality",
+        "ar": "يزيد الإنتاج ويحسن الجودة"
       }
     ],
     "recommendedCrops": [],
@@ -170,7 +178,205 @@
       "en": "",
       "ar": ""
     },
-    "technicalSheet": "",
+    "technicalSheet": "/uploads/products/sheets/olivic-fulvate-70.webp",
+    "featured": true
+  },
+  {
+    "id": "olivic-cu-15",
+    "slug": "olivic-cu-15",
+    "name": {
+      "en": "Olivic Cu 15%",
+      "ar": "أوليفك نحاس 15%"
+    },
+    "category": {
+      "en": "Micronutrients",
+      "ar": "العناصر الصغرى"
+    },
+    "image": "/uploads/products/olivic-cu-15.webp",
+    "composition": {
+      "en": "EDTA Chelated Copper: Copper (Cu) 15%; EDTA 69.5%; pH 6 ± 0.5",
+      "ar": "نحاس مخلبي EDTA: نحاس 15%؛ EDTA بنسبة 69.5%؛ رقم حموضة 6 ± 0.5"
+    },
+    "packageSize": {
+      "en": "1 kg and 5 kg",
+      "ar": "1 كجم و5 كجم"
+    },
+    "shortBenefit": {
+      "en": "Water-soluble chelated copper for balanced growth and crop quality.",
+      "ar": "نحاس مخلبي قابل للذوبان لدعم النمو المتوازن وجودة المحصول."
+    },
+    "overview": {
+      "en": "Olivic Cu 15% supplies EDTA-chelated copper in a water-soluble blue powder formulation.",
+      "ar": "أوليفك نحاس 15% يوفر النحاس المخلبي بتقنية EDTA في صورة مسحوق أزرق قابل للذوبان في الماء."
+    },
+    "benefits": [
+      {
+        "en": "Helps prevent copper deficiency",
+        "ar": "يساعد على الوقاية من نقص النحاس"
+      },
+      {
+        "en": "Supports healthy and balanced growth",
+        "ar": "يدعم النمو الصحي والمتوازن"
+      },
+      {
+        "en": "Enhances yield and crop quality",
+        "ar": "يعزز الإنتاج وجودة المحصول"
+      },
+      {
+        "en": "Improves copper uptake",
+        "ar": "يحسن امتصاص النحاس"
+      }
+    ],
+    "recommendedCrops": [],
+    "applicationMethod": {
+      "en": "",
+      "ar": ""
+    },
+    "usageRate": {
+      "en": "",
+      "ar": ""
+    },
+    "safetyInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "registrationInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "technicalSheet": "/uploads/products/sheets/olivic-cu-15.webp",
+    "featured": true
+  },
+  {
+    "id": "olivic-humate-85",
+    "slug": "olivic-humate-85",
+    "name": {
+      "en": "Olivic Humate 85%",
+      "ar": "أوليفك هيومات 85%"
+    },
+    "category": {
+      "en": "Humic and Fulvic Products",
+      "ar": "منتجات الهيوميك والفولفيك"
+    },
+    "image": "/uploads/products/olivic-humate-85.webp",
+    "composition": {
+      "en": "Organic Matter 70-71%; Humic Acid 50-51%; Fulvic Acid 15%; Moisture 20%; Granular size 2-4 mm; pH 5-6",
+      "ar": "مادة عضوية 70-71%؛ حمض الهيوميك 50-51%؛ حمض الفولفيك 15%؛ رطوبة 20%؛ حجم حبيبات 2-4 مم؛ رقم حموضة 5-6"
+    },
+    "packageSize": {
+      "en": "10 kg and 20 kg",
+      "ar": "10 كجم و20 كجم"
+    },
+    "shortBenefit": {
+      "en": "Slow-release organic soil improver for stronger roots and better nutrient uptake.",
+      "ar": "محسن تربة عضوي بطيء الإطلاق لجذور أقوى وامتصاص أفضل للعناصر."
+    },
+    "overview": {
+      "en": "Olivic Humate 85% is a granular humic and fulvic product designed to improve soil structure, root activity and crop quality.",
+      "ar": "أوليفك هيومات 85% منتج حبيبي من الهيوميك والفولفيك لتحسين بناء التربة ونشاط الجذور وجودة المحصول."
+    },
+    "benefits": [
+      {
+        "en": "Improves soil structure",
+        "ar": "يحسن بناء التربة"
+      },
+      {
+        "en": "Stimulates root activity",
+        "ar": "ينشط الجذور"
+      },
+      {
+        "en": "Improves water retention",
+        "ar": "يحسن احتفاظ التربة بالماء"
+      },
+      {
+        "en": "Enhances nutrient uptake and crop quality",
+        "ar": "يعزز امتصاص العناصر وجودة المحصول"
+      }
+    ],
+    "recommendedCrops": [],
+    "applicationMethod": {
+      "en": "",
+      "ar": ""
+    },
+    "usageRate": {
+      "en": "",
+      "ar": ""
+    },
+    "safetyInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "registrationInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "technicalSheet": "/uploads/products/sheets/olivic-humate-85.webp",
+    "featured": true
+  },
+  {
+    "id": "olivic-alga",
+    "slug": "olivic-alga",
+    "name": {
+      "en": "Olivic Alga",
+      "ar": "أوليفك ألجا"
+    },
+    "category": {
+      "en": "Biostimulants",
+      "ar": "المنشطات الحيوية"
+    },
+    "image": "/uploads/products/olivic-alga.webp",
+    "composition": {
+      "en": "Seaweed Extract Flake: Organic Matter 51.5%; Alginic Acid 18.8%; Humic Acid 15%; Amino Acid 4.05%; K₂O 20.5%; pH 8-10",
+      "ar": "مستخلص طحالب في صورة رقائق: مادة عضوية 51.5%؛ حمض الألجنيك 18.8%؛ حمض الهيوميك 15%؛ أحماض أمينية 4.05%؛ أكسيد البوتاسيوم 20.5%؛ رقم حموضة 8-10"
+    },
+    "packageSize": {
+      "en": "1 kg and 5 kg",
+      "ar": "1 كجم و5 كجم"
+    },
+    "shortBenefit": {
+      "en": "Seaweed extract flakes supporting growth, flowering, fruit quality and stress tolerance.",
+      "ar": "رقائق مستخلص طحالب لدعم النمو والتزهير وجودة الثمار وتحمل الإجهاد."
+    },
+    "overview": {
+      "en": "Olivic Alga is a concentrated seaweed extract flake with organic matter, alginic acid, humic acid, amino acids and potassium.",
+      "ar": "أوليفك ألجا مستخلص طحالب مركز في صورة رقائق يجمع المادة العضوية وحمض الألجنيك والهيوميك والأحماض الأمينية والبوتاسيوم."
+    },
+    "benefits": [
+      {
+        "en": "Supports vegetative growth",
+        "ar": "يدعم النمو الخضري"
+      },
+      {
+        "en": "Improves flowering",
+        "ar": "يحسن التزهير"
+      },
+      {
+        "en": "Improves fruit quality",
+        "ar": "يحسن جودة الثمار"
+      },
+      {
+        "en": "Enhances stress tolerance",
+        "ar": "يعزز تحمل الإجهاد"
+      }
+    ],
+    "recommendedCrops": [],
+    "applicationMethod": {
+      "en": "",
+      "ar": ""
+    },
+    "usageRate": {
+      "en": "",
+      "ar": ""
+    },
+    "safetyInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "registrationInfo": {
+      "en": "",
+      "ar": ""
+    },
+    "technicalSheet": "/uploads/products/sheets/olivic-alga.webp",
     "featured": true
   }
 ]
