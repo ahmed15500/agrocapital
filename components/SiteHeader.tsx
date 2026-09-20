@@ -14,10 +14,8 @@ export function SiteHeader({ locale, site }: { locale: Locale; site: SiteData })
   const [open, setOpen] = useState(false);
   const links = [
     [`/${locale}`, t.nav[0]],
-    [`/${locale}/about`, t.nav[1]],
     [`/${locale}/products`, t.nav[2]],
-    [`/${locale}/solutions`, t.nav[3]],
-    [`/${locale}/news`, t.nav[4]],
+    [`/${locale}/about`, t.nav[1]],
     [`/${locale}/contact`, t.nav[5]]
   ];
   const other = altLocale(locale);

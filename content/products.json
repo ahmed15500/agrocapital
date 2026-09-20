@@ -1,382 +1,314 @@
 [
   {
-    "id": "olivic-zinc-15",
-    "slug": "olivic-zinc-15",
-    "name": {
-      "en": "Olivic Zinc 15%",
-      "ar": "أوليفك زنك 15%"
-    },
-    "category": {
-      "en": "Micronutrients",
-      "ar": "العناصر الصغرى"
-    },
-    "image": "/uploads/products/olivic-zinc-15-paper-sack-transparent.png",
-    "rotationVideo": "/uploads/products/olivic-zinc-15-rotation.mp4",
-    "composition": {
-      "en": "EDTA Chelated Zinc 15%",
-      "ar": "زنك مخلبي (EDTA) 15%"
-    },
-    "packageSize": {
-      "en": "1 kg",
-      "ar": "1 كجم"
-    },
-    "shortBenefit": {
-      "en": "Supports vegetative growth and helps correct zinc deficiency.",
-      "ar": "يدعم النمو الخضري ويساعد على تصحيح نقص الزنك."
-    },
-    "overview": {
-      "en": "Olivic Zinc 15% is an EDTA chelated zinc product supplied in a 1 kg package.",
-      "ar": "أوليفك زنك 15% منتج زنك مخلبي بتقنية EDTA ويأتي في عبوة 1 كجم."
-    },
-    "benefits": [
-      {
-        "en": "Supports vegetative growth",
-        "ar": "يدعم النمو الخضري"
-      },
-      {
-        "en": "Enhances flowering and yield",
-        "ar": "يعزز التزهير والإنتاج"
-      },
-      {
-        "en": "Corrects zinc deficiency",
-        "ar": "يصحح نقص الزنك"
-      },
-      {
-        "en": "Improves crop quality",
-        "ar": "يحسن جودة المحصول"
-      }
-    ],
-    "recommendedCrops": [],
-    "applicationMethod": {
-      "en": "",
-      "ar": ""
-    },
-    "usageRate": {
-      "en": "",
-      "ar": ""
-    },
-    "safetyInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "registrationInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "technicalSheet": "",
-    "featured": true
-  },
-  {
     "id": "olivic-iron-6",
     "slug": "olivic-iron-6",
-    "name": {
-      "en": "Olivic Iron 6%",
-      "ar": "أوليفك حديد 6%"
-    },
-    "category": {
-      "en": "Micronutrients",
-      "ar": "العناصر الصغرى"
-    },
-    "image": "/uploads/products/olivic-iron-6-paper-sack-transparent.png",
-    "composition": {
-      "en": "EDDHA Chelated Iron Powder; Fe content: 6%; O-O = 4.8; pH: 7.0-9.0",
-      "ar": "حديد مخلبي (EDDHA) مسحوق؛ محتوى الحديد: 6%؛ O-O = 4.8؛ pH: 7.0-9.0"
-    },
-    "packageSize": {
-      "en": "1 kg",
-      "ar": "1 كجم"
-    },
-    "shortBenefit": {
-      "en": "EDDHA chelated iron powder with 6% iron content.",
-      "ar": "مسحوق حديد مخلبي بتقنية EDDHA ومحتوى حديد 6%."
-    },
-    "overview": {
-      "en": "Olivic Iron 6% is an EDDHA chelated iron powder supplied in a 1 kg package.",
-      "ar": "أوليفك حديد 6% مسحوق حديد مخلبي بتقنية EDDHA ويأتي في عبوة 1 كجم."
-    },
-    "benefits": [],
-    "recommendedCrops": [],
-    "applicationMethod": {
-      "en": "",
-      "ar": ""
-    },
-    "usageRate": {
-      "en": "",
-      "ar": ""
-    },
-    "safetyInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "registrationInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "technicalSheet": "",
-    "featured": true
-  },
-  {
-    "id": "olivic-fulvate-70",
-    "slug": "olivic-fulvate-70",
-    "name": {
-      "en": "Olivic Fulvate 70%",
-      "ar": "أوليفك فولفات 70%"
-    },
-    "category": {
-      "en": "Humic and Fulvic Products",
-      "ar": "منتجات الهيوميك والفولفيك"
-    },
-    "image": "/uploads/products/olivic-fulvate-70-paper-sack-transparent.png",
-    "composition": {
-      "en": "Fulvic Acid 70%; Amino Acid 5%; Potassium 12%; Solubility 99.9%; pH 5-7",
-      "ar": "حمض الفولفيك 70%؛ أحماض أمينية 5%؛ بوتاسيوم 12%؛ ذوبانية 99.9%؛ رقم حموضة 5-7"
-    },
-    "packageSize": {
-      "en": "1 kg and 10 kg",
-      "ar": "1 كجم و10 كجم"
-    },
-    "shortBenefit": {
-      "en": "Improves nutrient uptake, root growth, plant vigor and crop quality.",
-      "ar": "يحسن امتصاص العناصر ونمو الجذور وقوة النبات وجودة المحصول."
-    },
-    "overview": {
-      "en": "Olivic Fulvate 70% is a highly soluble fulvic acid product for stronger roots, nutrient uptake and crop performance.",
-      "ar": "أوليفك فولفات 70% منتج عالي الذوبان من حمض الفولفيك لدعم الجذور وامتصاص العناصر وأداء المحصول."
-    },
-    "benefits": [
-      {
-        "en": "Improves nutrient uptake",
-        "ar": "يحسن امتصاص العناصر الغذائية"
-      },
-      {
-        "en": "Activates root growth",
-        "ar": "ينشط نمو الجذور"
-      },
-      {
-        "en": "Enhances plant vigor",
-        "ar": "يعزز قوة وحيوية النبات"
-      },
-      {
-        "en": "Increases yield and quality",
-        "ar": "يزيد الإنتاج ويحسن الجودة"
-      }
-    ],
-    "recommendedCrops": [],
-    "applicationMethod": {
-      "en": "",
-      "ar": ""
-    },
-    "usageRate": {
-      "en": "",
-      "ar": ""
-    },
-    "safetyInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "registrationInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "technicalSheet": "/uploads/products/sheets/olivic-fulvate-70.webp",
+    "name": { "en": "Olivic Iron 6%", "ar": "أوليفك حديد 6%" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-iron-6.webp",
+    "composition": { "en": "EDDHA chelated iron: Fe 6%; Ortho-Ortho 4.8%; pH 8.0", "ar": "حديد مخلبي EDDHA: حديد 6%؛ أورثو-أورثو 4.8%؛ رقم حموضة 8.0" },
+    "packageSize": { "en": "1 kg", "ar": "1 كجم" },
+    "shortBenefit": { "en": "Chelated iron for correcting iron deficiency and supporting healthy growth.", "ar": "حديد مخلبي لتصحيح نقص الحديد ودعم النمو الصحي." },
+    "overview": { "en": "A concentrated EDDHA chelated iron powder for professional crop nutrition programmes.", "ar": "مسحوق حديد مخلبي مركز بتقنية EDDHA لبرامج تغذية المحاصيل الاحترافية." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-iron-6.webp",
     "featured": true
   },
   {
     "id": "olivic-cu-15",
     "slug": "olivic-cu-15",
-    "name": {
-      "en": "Olivic Cu 15%",
-      "ar": "أوليفك نحاس 15%"
-    },
-    "category": {
-      "en": "Micronutrients",
-      "ar": "العناصر الصغرى"
-    },
-    "image": "/uploads/products/olivic-cu-15.webp",
-    "composition": {
-      "en": "EDTA Chelated Copper: Copper (Cu) 15%; EDTA 69.5%; pH 6 ± 0.5",
-      "ar": "نحاس مخلبي EDTA: نحاس 15%؛ EDTA بنسبة 69.5%؛ رقم حموضة 6 ± 0.5"
-    },
-    "packageSize": {
-      "en": "1 kg and 5 kg",
-      "ar": "1 كجم و5 كجم"
-    },
-    "shortBenefit": {
-      "en": "Water-soluble chelated copper for balanced growth and crop quality.",
-      "ar": "نحاس مخلبي قابل للذوبان لدعم النمو المتوازن وجودة المحصول."
-    },
-    "overview": {
-      "en": "Olivic Cu 15% supplies EDTA-chelated copper in a water-soluble blue powder formulation.",
-      "ar": "أوليفك نحاس 15% يوفر النحاس المخلبي بتقنية EDTA في صورة مسحوق أزرق قابل للذوبان في الماء."
-    },
-    "benefits": [
-      {
-        "en": "Helps prevent copper deficiency",
-        "ar": "يساعد على الوقاية من نقص النحاس"
-      },
-      {
-        "en": "Supports healthy and balanced growth",
-        "ar": "يدعم النمو الصحي والمتوازن"
-      },
-      {
-        "en": "Enhances yield and crop quality",
-        "ar": "يعزز الإنتاج وجودة المحصول"
-      },
-      {
-        "en": "Improves copper uptake",
-        "ar": "يحسن امتصاص النحاس"
-      }
-    ],
-    "recommendedCrops": [],
-    "applicationMethod": {
-      "en": "",
-      "ar": ""
-    },
-    "usageRate": {
-      "en": "",
-      "ar": ""
-    },
-    "safetyInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "registrationInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "technicalSheet": "/uploads/products/sheets/olivic-cu-15.webp",
+    "name": { "en": "Olivic Cu 15%", "ar": "أوليفك نحاس 15%" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-cu-15.webp",
+    "composition": { "en": "Copper (Cu) 15%; EDTA 69.5%; pH 6 ± 0.5", "ar": "نحاس 15%؛ EDTA بنسبة 69.5%؛ رقم حموضة 6 ± 0.5" },
+    "packageSize": { "en": "1 kg", "ar": "1 كجم" },
+    "shortBenefit": { "en": "Water-soluble EDTA chelated copper.", "ar": "نحاس مخلبي EDTA قابل للذوبان في الماء." },
+    "overview": { "en": "A water-soluble EDTA chelated copper powder supplied with its official technical data.", "ar": "مسحوق نحاس مخلبي EDTA قابل للذوبان ومرفق ببياناته الفنية الرسمية." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-cu-15.webp",
     "featured": true
   },
   {
-    "id": "olivic-humate-85",
-    "slug": "olivic-humate-85",
-    "name": {
-      "en": "Olivic Humate 85%",
-      "ar": "أوليفك هيومات 85%"
-    },
-    "category": {
-      "en": "Humic and Fulvic Products",
-      "ar": "منتجات الهيوميك والفولفيك"
-    },
-    "image": "/uploads/products/olivic-humate-85.webp",
-    "composition": {
-      "en": "Organic Matter 70-71%; Humic Acid 50-51%; Fulvic Acid 15%; Moisture 20%; Granular size 2-4 mm; pH 5-6",
-      "ar": "مادة عضوية 70-71%؛ حمض الهيوميك 50-51%؛ حمض الفولفيك 15%؛ رطوبة 20%؛ حجم حبيبات 2-4 مم؛ رقم حموضة 5-6"
-    },
-    "packageSize": {
-      "en": "10 kg and 20 kg",
-      "ar": "10 كجم و20 كجم"
-    },
-    "shortBenefit": {
-      "en": "Slow-release organic soil improver for stronger roots and better nutrient uptake.",
-      "ar": "محسن تربة عضوي بطيء الإطلاق لجذور أقوى وامتصاص أفضل للعناصر."
-    },
-    "overview": {
-      "en": "Olivic Humate 85% is a granular humic and fulvic product designed to improve soil structure, root activity and crop quality.",
-      "ar": "أوليفك هيومات 85% منتج حبيبي من الهيوميك والفولفيك لتحسين بناء التربة ونشاط الجذور وجودة المحصول."
-    },
-    "benefits": [
-      {
-        "en": "Improves soil structure",
-        "ar": "يحسن بناء التربة"
-      },
-      {
-        "en": "Stimulates root activity",
-        "ar": "ينشط الجذور"
-      },
-      {
-        "en": "Improves water retention",
-        "ar": "يحسن احتفاظ التربة بالماء"
-      },
-      {
-        "en": "Enhances nutrient uptake and crop quality",
-        "ar": "يعزز امتصاص العناصر وجودة المحصول"
-      }
-    ],
-    "recommendedCrops": [],
-    "applicationMethod": {
-      "en": "",
-      "ar": ""
-    },
-    "usageRate": {
-      "en": "",
-      "ar": ""
-    },
-    "safetyInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "registrationInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "technicalSheet": "/uploads/products/sheets/olivic-humate-85.webp",
+    "id": "olivic-zinc-15",
+    "slug": "olivic-zinc-15",
+    "name": { "en": "Olivic Zinc 15%", "ar": "أوليفك زنك 15%" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-zinc-15.webp",
+    "composition": { "en": "Zinc (Zn) 15%; EDTA 67.5%; pH 6.5 ± 0.5", "ar": "زنك 15%؛ EDTA بنسبة 67.5%؛ رقم حموضة 6.5 ± 0.5" },
+    "packageSize": { "en": "1 kg", "ar": "1 كجم" },
+    "shortBenefit": { "en": "EDTA chelated zinc for professional crop nutrition.", "ar": "زنك مخلبي EDTA لتغذية المحاصيل." },
+    "overview": { "en": "A highly soluble EDTA chelated zinc formulation with 15% zinc.", "ar": "تركيبة زنك مخلبي EDTA عالية الذوبان بتركيز زنك 15%." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-zinc-15.webp",
     "featured": true
   },
   {
     "id": "olivic-alga",
     "slug": "olivic-alga",
-    "name": {
-      "en": "Olivic Alga",
-      "ar": "أوليفك ألجا"
-    },
-    "category": {
-      "en": "Biostimulants",
-      "ar": "المنشطات الحيوية"
-    },
-    "image": "/uploads/products/olivic-alga.webp",
-    "composition": {
-      "en": "Seaweed Extract Flake: Organic Matter 51.5%; Alginic Acid 18.8%; Humic Acid 15%; Amino Acid 4.05%; K₂O 20.5%; pH 8-10",
-      "ar": "مستخلص طحالب في صورة رقائق: مادة عضوية 51.5%؛ حمض الألجنيك 18.8%؛ حمض الهيوميك 15%؛ أحماض أمينية 4.05%؛ أكسيد البوتاسيوم 20.5%؛ رقم حموضة 8-10"
-    },
-    "packageSize": {
-      "en": "1 kg and 5 kg",
-      "ar": "1 كجم و5 كجم"
-    },
-    "shortBenefit": {
-      "en": "Seaweed extract flakes supporting growth, flowering, fruit quality and stress tolerance.",
-      "ar": "رقائق مستخلص طحالب لدعم النمو والتزهير وجودة الثمار وتحمل الإجهاد."
-    },
-    "overview": {
-      "en": "Olivic Alga is a concentrated seaweed extract flake with organic matter, alginic acid, humic acid, amino acids and potassium.",
-      "ar": "أوليفك ألجا مستخلص طحالب مركز في صورة رقائق يجمع المادة العضوية وحمض الألجنيك والهيوميك والأحماض الأمينية والبوتاسيوم."
-    },
-    "benefits": [
-      {
-        "en": "Supports vegetative growth",
-        "ar": "يدعم النمو الخضري"
-      },
-      {
-        "en": "Improves flowering",
-        "ar": "يحسن التزهير"
-      },
-      {
-        "en": "Improves fruit quality",
-        "ar": "يحسن جودة الثمار"
-      },
-      {
-        "en": "Enhances stress tolerance",
-        "ar": "يعزز تحمل الإجهاد"
-      }
-    ],
-    "recommendedCrops": [],
-    "applicationMethod": {
-      "en": "",
-      "ar": ""
-    },
-    "usageRate": {
-      "en": "",
-      "ar": ""
-    },
-    "safetyInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "registrationInfo": {
-      "en": "",
-      "ar": ""
-    },
-    "technicalSheet": "/uploads/products/sheets/olivic-alga.webp",
+    "name": { "en": "Olivic Alga", "ar": "أوليفك ألجا" },
+    "category": { "en": "Biostimulants", "ar": "المنشطات الحيوية" },
+    "image": "/uploads/products/2026/olivic-alga.webp",
+    "composition": { "en": "Organic Matter 51.5%; Alginic Acid 18.8%; Humic Acid 15%; Amino Acid 4.05%; K₂O 20.5%", "ar": "مادة عضوية 51.5%؛ حمض ألجنيك 18.8%؛ حمض هيوميك 15%؛ أحماض أمينية 4.05%؛ K₂O بنسبة 20.5%" },
+    "packageSize": { "en": "1 kg", "ar": "1 كجم" },
+    "shortBenefit": { "en": "Concentrated seaweed extract flakes.", "ar": "رقائق مستخلص طحالب مركزة." },
+    "overview": { "en": "A concentrated seaweed extract flake combining organic matter, alginic acid, humic acid, amino acids and potassium.", "ar": "رقائق مستخلص طحالب مركزة تجمع المادة العضوية وحمض الألجنيك والهيوميك والأحماض الأمينية والبوتاسيوم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-alga.webp",
     "featured": true
+  },
+  {
+    "id": "olivic-fulvate-70",
+    "slug": "olivic-fulvate-70",
+    "name": { "en": "Olivic Fulvate 70%", "ar": "أوليفك فولفات 70%" },
+    "category": { "en": "Humic and Fulvic", "ar": "الهيوميك والفولفيك" },
+    "image": "/uploads/products/2026/olivic-fulvate-70.webp",
+    "composition": { "en": "Fulvic Acid 70%; Amino Acid 5%; Potassium 12%; Solubility 99.9%", "ar": "حمض فولفيك 70%؛ أحماض أمينية 5%؛ بوتاسيوم 12%؛ ذوبانية 99.9%" },
+    "packageSize": { "en": "10 kg and 20 kg", "ar": "10 كجم و20 كجم" },
+    "shortBenefit": { "en": "Highly soluble fulvic acid formulation.", "ar": "تركيبة حمض فولفيك عالية الذوبان." },
+    "overview": { "en": "A concentrated fulvic acid product developed for soil and crop nutrition programmes.", "ar": "منتج مركز من حمض الفولفيك لبرامج تغذية التربة والمحاصيل." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-fulvate-70.webp",
+    "featured": true
+  },
+  {
+    "id": "olivic-humate-85",
+    "slug": "olivic-humate-85",
+    "name": { "en": "Olivic Humate 85%", "ar": "أوليفك هيومات 85%" },
+    "category": { "en": "Humic and Fulvic", "ar": "الهيوميك والفولفيك" },
+    "image": "/uploads/products/2026/olivic-humate-85.webp",
+    "composition": { "en": "Organic Matter 70-71%; Humic Acid 50-51%; Fulvic Acid 15%; Moisture 20%", "ar": "مادة عضوية 70-71%؛ حمض هيوميك 50-51%؛ حمض فولفيك 15%؛ رطوبة 20%" },
+    "packageSize": { "en": "1 kg, 10 kg and 20 kg", "ar": "1 كجم و10 كجم و20 كجم" },
+    "shortBenefit": { "en": "Slow-release organic soil improver.", "ar": "محسن تربة عضوي بطيء التحلل." },
+    "overview": { "en": "A granular humic and fulvic product available in three commercial pack sizes.", "ar": "منتج حبيبي من الهيوميك والفولفيك متوفر بثلاثة أحجام تجارية." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-humate-85.webp",
+    "featured": true
+  },
+  {
+    "id": "olivic-city-npk-6-6-43",
+    "slug": "olivic-city-npk-6-6-43",
+    "name": { "en": "Olivic City NPK 6-6-43", "ar": "أوليفك سيتي NPK 6-6-43" },
+    "category": { "en": "Specialty Fertilizers", "ar": "الأسمدة المتخصصة" },
+    "image": "/uploads/products/2026/olivic-city-npk-6-6-43.webp",
+    "composition": { "en": "N 6%; P₂O₅ 6%; K₂O 43%; Filler 5%", "ar": "نيتروجين 6%؛ P₂O₅ بنسبة 6%؛ K₂O بنسبة 43%؛ مواد مالئة 5%" },
+    "packageSize": { "en": "25 kg", "ar": "25 كجم" },
+    "shortBenefit": { "en": "High-potassium NPK fertilizer.", "ar": "سماد NPK مرتفع البوتاسيوم." },
+    "overview": { "en": "A high-potassium NPK formulation supplied in a 25 kg commercial pack.", "ar": "تركيبة NPK مرتفعة البوتاسيوم في عبوة تجارية 25 كجم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-city-npk-6-6-43.webp",
+    "featured": true
+  },
+  {
+    "id": "olivic-city-map-12-61-0",
+    "slug": "olivic-city-map-12-61-0",
+    "name": { "en": "Olivic City MAP 12-61-0", "ar": "أوليفك سيتي MAP 12-61-0" },
+    "category": { "en": "Specialty Fertilizers", "ar": "الأسمدة المتخصصة" },
+    "image": "/uploads/products/2026/olivic-city-map-12-61-0.webp",
+    "composition": { "en": "Nitrogen 12%; P₂O₅ 61%; pH 4.5 ± 0.5", "ar": "نيتروجين 12%؛ P₂O₅ بنسبة 61%؛ رقم حموضة 4.5 ± 0.5" },
+    "packageSize": { "en": "25 kg", "ar": "25 كجم" },
+    "shortBenefit": { "en": "Mono-ammonium phosphate fertilizer.", "ar": "سماد فوسفات أحادي الأمونيوم." },
+    "overview": { "en": "A concentrated mono-ammonium phosphate formulation for professional fertigation programmes.", "ar": "تركيبة مركزة من فوسفات أحادي الأمونيوم لبرامج التسميد الاحترافية." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-city-map-12-61-0.webp",
+    "featured": true
+  },
+  {
+    "id": "olivic-city-mkp-0-52-34",
+    "slug": "olivic-city-mkp-0-52-34",
+    "name": { "en": "Olivic City MKP 0-52-34", "ar": "أوليفك سيتي MKP 0-52-34" },
+    "category": { "en": "Specialty Fertilizers", "ar": "الأسمدة المتخصصة" },
+    "image": "/uploads/products/2026/olivic-city-mkp-0-52-34.webp",
+    "composition": { "en": "P₂O₅ 52%; K₂O 34%; pH 5.5 ± 0.5", "ar": "P₂O₅ بنسبة 52%؛ K₂O بنسبة 34%؛ رقم حموضة 5.5 ± 0.5" },
+    "packageSize": { "en": "20 kg", "ar": "20 كجم" },
+    "shortBenefit": { "en": "Monopotassium phosphate fertilizer.", "ar": "سماد فوسفات أحادي البوتاسيوم." },
+    "overview": { "en": "A phosphorus and potassium formulation supplied in a 20 kg commercial pack.", "ar": "تركيبة فوسفور وبوتاسيوم في عبوة تجارية 20 كجم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-city-mkp-0-52-34.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-city-npk-10-5-50",
+    "slug": "olivic-city-npk-10-5-50",
+    "name": { "en": "Olivic City NPK 10-5-50", "ar": "أوليفك سيتي NPK 10-5-50" },
+    "category": { "en": "Specialty Fertilizers", "ar": "الأسمدة المتخصصة" },
+    "image": "/uploads/products/2026/olivic-city-npk-10-5-50.webp",
+    "composition": { "en": "N 10%; P₂O₅ 5%; K₂O 50%; Suspending Agent 2%; Density 1.65 g/cm³", "ar": "نيتروجين 10%؛ P₂O₅ بنسبة 5%؛ K₂O بنسبة 50%؛ مادة معلقة 2%؛ كثافة 1.65 جم/سم³" },
+    "packageSize": { "en": "20 kg", "ar": "20 كجم" },
+    "shortBenefit": { "en": "High-potassium suspended NPK fertilizer.", "ar": "سماد NPK معلق مرتفع البوتاسيوم." },
+    "overview": { "en": "A high-potassium suspended NPK fertilizer in a 20 kg commercial pack.", "ar": "سماد NPK معلق مرتفع البوتاسيوم في عبوة تجارية 20 كجم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-city-npk-10-5-50.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-city-npk-12-50-12",
+    "slug": "olivic-city-npk-12-50-12",
+    "name": { "en": "Olivic City NPK 12-50-12", "ar": "أوليفك سيتي NPK 12-50-12" },
+    "category": { "en": "Specialty Fertilizers", "ar": "الأسمدة المتخصصة" },
+    "image": "/uploads/products/2026/olivic-city-npk-12-50-12.webp",
+    "composition": { "en": "N 12%; P₂O₅ 50%; K₂O 12%; Suspending Agent 2%; Density 1.54 kg/L", "ar": "نيتروجين 12%؛ P₂O₅ بنسبة 50%؛ K₂O بنسبة 12%؛ مادة معلقة 2%؛ كثافة 1.54 كجم/لتر" },
+    "packageSize": { "en": "20 kg", "ar": "20 كجم" },
+    "shortBenefit": { "en": "High-phosphorus suspended NPK fertilizer.", "ar": "سماد NPK معلق مرتفع الفوسفور." },
+    "overview": { "en": "A high-phosphorus suspended NPK formulation supplied in a 20 kg pack.", "ar": "تركيبة NPK معلقة مرتفعة الفوسفور في عبوة 20 كجم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-city-npk-12-50-12.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-phosphoric-acid-85",
+    "slug": "olivic-phosphoric-acid-85",
+    "name": { "en": "Olivic Phosphoric Acid 85%", "ar": "أوليفك حمض الفوسفوريك 85%" },
+    "category": { "en": "Acids and Amendments", "ar": "الأحماض والمحسنات" },
+    "image": "/uploads/products/2026/olivic-phosphoric-acid-85.webp",
+    "composition": { "en": "P₂O₅ 60%; Phosphoric Acid 85%; Density 1.45 g/cm³; pH 2 ± 0.5", "ar": "P₂O₅ بنسبة 60%؛ حمض فوسفوريك 85%؛ كثافة 1.45 جم/سم³؛ رقم حموضة 2 ± 0.5" },
+    "packageSize": { "en": "25 kg", "ar": "25 كجم" },
+    "shortBenefit": { "en": "Concentrated liquid phosphoric acid.", "ar": "حمض فوسفوريك سائل مركز." },
+    "overview": { "en": "A concentrated liquid phosphoric acid formulation supplied in a 25 kg pack.", "ar": "تركيبة سائلة مركزة من حمض الفوسفوريك في عبوة 25 كجم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-phosphoric-acid-85.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-city-power-0-40-60",
+    "slug": "olivic-city-power-0-40-60",
+    "name": { "en": "Olivic City Power 0-40-60", "ar": "أوليفك سيتي باور 0-40-60" },
+    "category": { "en": "Specialty Fertilizers", "ar": "الأسمدة المتخصصة" },
+    "image": "/uploads/products/2026/olivic-city-power-0-40-60.webp",
+    "composition": { "en": "P₂O₅ 40%; K₂O 60%; pH 7.5 ± 0.5", "ar": "P₂O₅ بنسبة 40%؛ K₂O بنسبة 60%؛ رقم حموضة 7.5 ± 0.5" },
+    "packageSize": { "en": "1 litre", "ar": "1 لتر" },
+    "shortBenefit": { "en": "Suspension phosphorus and potassium fertilizer.", "ar": "سماد معلق من الفوسفور والبوتاسيوم." },
+    "overview": { "en": "A concentrated suspension fertilizer combining phosphorus and potassium.", "ar": "سماد معلق مركز يجمع الفوسفور والبوتاسيوم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-city-power-0-40-60.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-city-micro-11-5",
+    "slug": "olivic-city-micro-11-5",
+    "name": { "en": "Olivic City Micro 11.5", "ar": "أوليفك سيتي ميكرو 11.5" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-city-micro-11-5.webp",
+    "composition": { "en": "Fe 4%; Zn 3%; Mn 3%; Cu 1.5%; EDTA 41.54%; Lignosulfonic Acid 26.6%", "ar": "حديد 4%؛ زنك 3%؛ منجنيز 3%؛ نحاس 1.5%؛ EDTA بنسبة 41.54%؛ حمض ليجنوسلفونيك 26.6%" },
+    "packageSize": { "en": "1 kg and 5 kg", "ar": "1 كجم و5 كجم" },
+    "shortBenefit": { "en": "Chelated micronutrient blend.", "ar": "خليط عناصر صغرى مخلّبة." },
+    "overview": { "en": "A chelated micronutrient blend of iron, zinc, manganese and copper.", "ar": "خليط مخلبي من الحديد والزنك والمنجنيز والنحاس." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-city-micro-11-5.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-shield",
+    "slug": "olivic-shield",
+    "name": { "en": "Olivic Shield", "ar": "أوليفك شيلد" },
+    "category": { "en": "Silicon and Potassium", "ar": "السيليكون والبوتاسيوم" },
+    "image": "/uploads/products/2026/olivic-shield.webp",
+    "composition": { "en": "K₂O 11.4%; SiO₂ 25%; Source: Potassium Silicate; Density 1.4", "ar": "K₂O بنسبة 11.4%؛ SiO₂ بنسبة 25%؛ المصدر سيليكات البوتاسيوم؛ كثافة 1.4" },
+    "packageSize": { "en": "1 litre", "ar": "1 لتر" },
+    "shortBenefit": { "en": "Liquid potassium silicate formulation.", "ar": "تركيبة سائلة من سيليكات البوتاسيوم." },
+    "overview": { "en": "A liquid potassium silicate formulation for professional agricultural use.", "ar": "تركيبة سائلة من سيليكات البوتاسيوم للاستخدام الزراعي الاحترافي." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-shield.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-molybore",
+    "slug": "olivic-molybore",
+    "name": { "en": "Olivic Molybore", "ar": "أوليفك مولي بور" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-molybore.webp",
+    "composition": { "en": "Boron 4.8%; Molybdenum 4.8%; Density 1.5; pH 8 ± 0.5", "ar": "بورون 4.8%؛ موليبدينوم 4.8%؛ كثافة 1.5؛ رقم حموضة 8 ± 0.5" },
+    "packageSize": { "en": "1 litre", "ar": "1 لتر" },
+    "shortBenefit": { "en": "Liquid boron and molybdenum formulation.", "ar": "تركيبة سائلة من البورون والموليبدينوم." },
+    "overview": { "en": "A liquid formulation combining boron and molybdenum in equal concentrations.", "ar": "تركيبة سائلة تجمع البورون والموليبدينوم بتركيزين متساويين." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-molybore.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-moly-green",
+    "slug": "olivic-moly-green",
+    "name": { "en": "Olivic Moly Green", "ar": "أوليفك مولي جرين" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-moly-green.webp",
+    "composition": { "en": "N 4%; Fe 3%; Mg 5%; Mo 5%; Density 1.3; pH 6 ± 0.5", "ar": "نيتروجين 4%؛ حديد 3%؛ ماغنسيوم 5%؛ موليبدينوم 5%؛ كثافة 1.3؛ رقم حموضة 6 ± 0.5" },
+    "packageSize": { "en": "1 litre", "ar": "1 لتر" },
+    "shortBenefit": { "en": "Liquid nitrogen and micronutrient blend.", "ar": "خليط سائل من النيتروجين والعناصر الصغرى." },
+    "overview": { "en": "A liquid blend of nitrogen, iron, magnesium and molybdenum.", "ar": "خليط سائل من النيتروجين والحديد والماغنسيوم والموليبدينوم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-moly-green.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-mix",
+    "slug": "olivic-mix",
+    "name": { "en": "Olivic Mix", "ar": "أوليفك ميكس" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-mix.webp",
+    "composition": { "en": "Lignosulfonate micronutrient blend of Fe, Zn, Mn, Cu and Mo", "ar": "خليط عناصر صغرى من الحديد والزنك والمنجنيز والنحاس والموليبدينوم مرتبط بالليجنوسلفونات" },
+    "packageSize": { "en": "1 kg and 5 kg", "ar": "1 كجم و5 كجم" },
+    "shortBenefit": { "en": "Multi-micronutrient lignosulfonate blend.", "ar": "خليط متعدد العناصر الصغرى بتقنية الليجنوسلفونات." },
+    "overview": { "en": "A multi-micronutrient lignosulfonate blend supplied in 1 kg and 5 kg packs.", "ar": "خليط ليجنوسلفونات متعدد العناصر الصغرى في عبوات 1 كجم و5 كجم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-mix.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-ziman",
+    "slug": "olivic-ziman",
+    "name": { "en": "Olivic Ziman", "ar": "أوليفك زيمان" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-ziman.webp",
+    "composition": { "en": "Zinc 7%; Manganese 7%; Lignosulfonate and acetate sources", "ar": "زنك 7%؛ منجنيز 7%؛ من مصادر الليجنوسلفونات والأسيتات" },
+    "packageSize": { "en": "1 kg and 5 kg", "ar": "1 كجم و5 كجم" },
+    "shortBenefit": { "en": "Zinc and manganese micronutrient formulation.", "ar": "تركيبة عناصر صغرى من الزنك والمنجنيز." },
+    "overview": { "en": "A combined zinc and manganese formulation supplied in two commercial pack sizes.", "ar": "تركيبة تجمع الزنك والمنجنيز ومتوفرة بحجمين تجاريين." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-ziman.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-cuzin",
+    "slug": "olivic-cuzin",
+    "name": { "en": "Olivic Cuzin", "ar": "أوليفك كوزين" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-cuzin.webp",
+    "composition": { "en": "Zn 6%; Cu 4%; Citric Acid 10%; Lignosulfonic Acid 72.8%; Alginic Acid 2.4%", "ar": "زنك 6%؛ نحاس 4%؛ حمض ستريك 10%؛ حمض ليجنوسلفونيك 72.8%؛ حمض ألجنيك 2.4%" },
+    "packageSize": { "en": "1 kg and 5 kg", "ar": "1 كجم و5 كجم" },
+    "shortBenefit": { "en": "Combined copper and zinc formulation.", "ar": "تركيبة تجمع النحاس والزنك." },
+    "overview": { "en": "A copper and zinc formulation with citric, lignosulfonic and alginic acids.", "ar": "تركيبة من النحاس والزنك مع أحماض الستريك والليجنوسلفونيك والألجنيك." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-cuzin.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-cal-zincbor",
+    "slug": "olivic-cal-zincbor",
+    "name": { "en": "Olivic Cal Zincbor", "ar": "أوليفك كال زنك بور" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-cal-zincbor.webp",
+    "composition": { "en": "CaO 10%; Zn 18%; B 3%; Filler 5%; Lignosulfonic Acid 57.2%", "ar": "أكسيد كالسيوم 10%؛ زنك 18%؛ بورون 3%؛ مواد مالئة 5%؛ حمض ليجنوسلفونيك 57.2%" },
+    "packageSize": { "en": "1 kg and 5 kg", "ar": "1 كجم و5 كجم" },
+    "shortBenefit": { "en": "Calcium, zinc and boron formulation.", "ar": "تركيبة من الكالسيوم والزنك والبورون." },
+    "overview": { "en": "A combined calcium, zinc and boron formulation in 1 kg and 5 kg packs.", "ar": "تركيبة تجمع الكالسيوم والزنك والبورون في عبوات 1 كجم و5 كجم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-cal-zincbor.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-zn",
+    "slug": "olivic-zn",
+    "name": { "en": "Olivic Zn", "ar": "أوليفك زد إن" },
+    "category": { "en": "Micronutrients", "ar": "العناصر الصغرى" },
+    "image": "/uploads/products/2026/olivic-zn.webp",
+    "composition": { "en": "Zn 15%; Zinc Lignosulfonate 10.1%; Zinc Citrate 4.9%; Lignosulfonic Acid 75.9%", "ar": "زنك 15%؛ ليجنوسلفونات زنك 10.1%؛ سترات زنك 4.9%؛ حمض ليجنوسلفونيك 75.9%" },
+    "packageSize": { "en": "1 kg and 5 kg", "ar": "1 كجم و5 كجم" },
+    "shortBenefit": { "en": "Zinc lignosulfonate and citrate formulation.", "ar": "تركيبة زنك من الليجنوسلفونات والسترات." },
+    "overview": { "en": "A 15% zinc formulation from lignosulfonate and citrate sources.", "ar": "تركيبة زنك 15% من مصادر الليجنوسلفونات والسترات." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-zn.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-npk-20-50-10",
+    "slug": "olivic-npk-20-50-10",
+    "name": { "en": "Olivic NPK 20-50-10", "ar": "أوليفك NPK 20-50-10" },
+    "category": { "en": "Specialty Fertilizers", "ar": "الأسمدة المتخصصة" },
+    "image": "/uploads/products/2026/olivic-npk-20-50-10.webp",
+    "composition": { "en": "N 20%; P₂O₅ 50%; K₂O 10%", "ar": "نيتروجين 20%؛ P₂O₅ بنسبة 50%؛ K₂O بنسبة 10%" },
+    "packageSize": { "en": "20 kg", "ar": "20 كجم" },
+    "shortBenefit": { "en": "High-phosphorus NPK compound fertilizer.", "ar": "سماد NPK مركب مرتفع الفوسفور." },
+    "overview": { "en": "A high-phosphorus NPK compound fertilizer supplied in a 20 kg pack.", "ar": "سماد NPK مركب مرتفع الفوسفور في عبوة 20 كجم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-npk-20-50-10.webp",
+    "featured": false
+  },
+  {
+    "id": "olivic-mkp-0-40-34",
+    "slug": "olivic-mkp-0-40-34",
+    "name": { "en": "Olivic MKP 0-40-34", "ar": "أوليفك MKP 0-40-34" },
+    "category": { "en": "Specialty Fertilizers", "ar": "الأسمدة المتخصصة" },
+    "image": "/uploads/products/2026/olivic-mkp-0-40-34.webp",
+    "composition": { "en": "P₂O₅ 40%; K₂O 34%; pH 7.5 ± 0.5", "ar": "P₂O₅ بنسبة 40%؛ K₂O بنسبة 34%؛ رقم حموضة 7.5 ± 0.5" },
+    "packageSize": { "en": "20 kg", "ar": "20 كجم" },
+    "shortBenefit": { "en": "Phosphorus and potassium fertilizer.", "ar": "سماد فوسفور وبوتاسيوم." },
+    "overview": { "en": "A concentrated phosphorus and potassium fertilizer supplied in a 20 kg pack.", "ar": "سماد مركز من الفوسفور والبوتاسيوم في عبوة 20 كجم." },
+    "technicalSheet": "/uploads/products/sheets/2026/olivic-mkp-0-40-34.webp",
+    "featured": false
   }
 ]

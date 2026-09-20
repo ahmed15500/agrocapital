@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { Package } from "lucide-react";
+import { ArrowUpRight, Package } from "lucide-react";
 import { useRef, type PointerEvent } from "react";
 import { AddToQuoteButton } from "@/components/AddToQuoteButton";
 import { dict } from "@/lib/i18n";
@@ -35,10 +35,10 @@ export function ProductCard({ locale, product }: { locale: Locale; product: Prod
       <div className="product-body">
         <span className="meta">{product.category[locale]}</span>
         <Link className="product-title-link" href={`/${locale}/products/${product.slug}`}><h3>{product.name[locale]}</h3></Link>
-        <p>{product.composition[locale] || product.shortBenefit[locale]}</p>
-        {product.packageSize[locale] && <p><strong>{locale === "en" ? "Package:" : "العبوة:"}</strong> {product.packageSize[locale]}</p>}
+        <p className="product-summary">{product.shortBenefit[locale] || product.composition[locale]}</p>
+        {product.packageSize[locale] && <p className="product-pack"><strong>{locale === "en" ? "Pack" : "العبوة"}</strong> {product.packageSize[locale]}</p>}
         <div className="cta-row product-actions">
-          <Link className="btn secondary" href={`/${locale}/products/${product.slug}`}>{t.details}</Link>
+          <Link className="product-detail-link" href={`/${locale}/products/${product.slug}`}>{t.details} <ArrowUpRight size={17} /></Link>
           <AddToQuoteButton locale={locale} productId={product.id} />
         </div>
       </div>

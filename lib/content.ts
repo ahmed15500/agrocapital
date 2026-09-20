@@ -19,7 +19,31 @@ async function writeJson<T>(file: string, data: T) {
 }
 
 export const getSiteData = () => readJson<SiteData>("site.json", {} as SiteData);
-export const getProducts = () => readJson<Product[]>("products.json", []);
+const emptyLocalized = { en: "", ar: "" };
+
+export async function getProducts() {
+  const products = await readJson<Partial<Product>[]>("products.json", []);
+  return products.map((product) => ({
+    id: product.id || product.slug || "",
+    slug: product.slug || product.id || "",
+    name: product.name || emptyLocalized,
+    category: product.category || emptyLocalized,
+    image: product.image || "",
+    rotationVideo: product.rotationVideo,
+    composition: product.composition || emptyLocalized,
+    packageSize: product.packageSize || emptyLocalized,
+    shortBenefit: product.shortBenefit || emptyLocalized,
+    overview: product.overview || product.shortBenefit || emptyLocalized,
+    benefits: product.benefits || [],
+    recommendedCrops: product.recommendedCrops || [],
+    applicationMethod: product.applicationMethod || emptyLocalized,
+    usageRate: product.usageRate || emptyLocalized,
+    safetyInfo: product.safetyInfo || emptyLocalized,
+    registrationInfo: product.registrationInfo || emptyLocalized,
+    technicalSheet: product.technicalSheet || "",
+    featured: Boolean(product.featured)
+  })) as Product[];
+}
 export const getPosts = () => readJson<Post[]>("posts.json", []);
 
 export async function getProduct(slug: string) {
