@@ -1632,14 +1632,17 @@ body.quote-drawer-open { overflow: hidden; }
   transition: transform .35s ease, filter .35s ease;
 }
 
-.hero-pack img { object-fit: contain; filter: drop-shadow(0 28px 26px rgba(0, 0, 0, .32)); }
-.hero-pack:hover { filter: brightness(1.05); }
-.hero-pack-1 { inset-inline-start: 1%; width: 39%; height: 73%; z-index: 1; transform: rotate(-3deg); }
-.hero-pack-2 { inset-inline-start: 32%; width: 38%; height: 67%; z-index: 3; transform: translateY(-4%); }
-.hero-pack-3 { inset-inline-end: -1%; width: 42%; height: 83%; z-index: 2; transform: rotate(2deg); }
-.hero-pack-1:hover { transform: rotate(-3deg) translateY(-10px); }
-.hero-pack-2:hover { transform: translateY(calc(-4% - 10px)); }
-.hero-pack-3:hover { transform: rotate(2deg) translateY(-10px); }
+.hero-pack img {
+  object-fit: contain;
+  filter: drop-shadow(0 30px 24px rgba(0, 0, 0, .3));
+}
+.hero-pack:hover { filter: brightness(1.035); }
+.hero-pack-1 { inset-inline-start: 2%; width: 37%; height: 69%; z-index: 2; transform: translateY(-1%); }
+.hero-pack-2 { inset-inline-start: 31%; width: 37%; height: 66%; z-index: 3; transform: translateY(-3%); }
+.hero-pack-3 { inset-inline-end: -1%; width: 43%; height: 82%; z-index: 1; transform: translateY(0); }
+.hero-pack-1:hover { transform: translateY(calc(-1% - 8px)); }
+.hero-pack-2:hover { transform: translateY(calc(-3% - 8px)); }
+.hero-pack-3:hover { transform: translateY(-8px); }
 
 .catalogue-band {
   color: #e9f2e7;

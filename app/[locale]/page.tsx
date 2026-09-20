@@ -28,6 +28,11 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const featuredProducts = products.filter((product) => product.featured).slice(0, 8);
   const heroIds = ["olivic-iron-6", "olivic-alga", "olivic-city-npk-6-6-43"];
   const heroProducts = heroIds.map((id) => products.find((product) => product.id === id)).filter(Boolean);
+  const heroProductImages = [
+    "/uploads/products/hero/olivic-iron-6-clean.webp",
+    "/uploads/products/hero/olivic-alga-clean.webp",
+    "/uploads/products/hero/olivic-city-npk-6-6-43-clean.webp"
+  ];
 
   return (
     <main>
@@ -61,7 +66,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 key={product.id}
                 aria-label={product.name[locale]}
               >
-                <Image src={product.image} alt={product.name[locale]} fill priority sizes="(max-width: 900px) 38vw, 22vw" />
+                <Image src={heroProductImages[index]} alt={product.name[locale]} fill priority sizes="(max-width: 900px) 38vw, 22vw" />
               </Link>
             ))}
           </div>
