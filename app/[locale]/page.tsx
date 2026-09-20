@@ -29,9 +29,9 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const heroIds = ["olivic-iron-6", "olivic-alga", "olivic-city-npk-6-6-43"];
   const heroProducts = heroIds.map((id) => products.find((product) => product.id === id)).filter(Boolean);
   const heroProductImages = [
-    "/uploads/products/hero/olivic-iron-6-clean.webp",
-    "/uploads/products/hero/olivic-alga-clean.webp",
-    "/uploads/products/hero/olivic-city-npk-6-6-43-clean.webp"
+    "/uploads/products/hero/olivic-iron-6-clean-v2.webp",
+    "/uploads/products/hero/olivic-alga-clean-v2.webp",
+    "/uploads/products/hero/olivic-city-npk-6-6-43-clean-v2.webp"
   ];
 
   return (
