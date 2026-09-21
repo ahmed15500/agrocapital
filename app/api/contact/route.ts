@@ -2,7 +2,7 @@ import { NextResponse } from "next/server";
 
 export const runtime = "nodejs";
 
-const contactRecipient = process.env.CONTACT_TO_EMAIL || "abahrawy20@gmail.com";
+const contactRecipient = process.env.CONTACT_TO_EMAIL || "agrocapital916.eg@gmail.com";
 const contactSender = process.env.RESEND_FROM_EMAIL || "AgroCapital Website <onboarding@resend.dev>";
 
 function escapeHtml(value: string) {
