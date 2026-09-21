@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import { ADMIN_EMAIL, createMagicLinkToken } from "@/lib/adminAuth";
+import { createMagicLinkToken, isAdminEmail } from "@/lib/adminAuth";
 
 const recentRequests = new Map<string, number>();
 
@@ -7,7 +7,7 @@ export async function POST(request: Request) {
   const { email } = await request.json() as { email?: string };
   const normalizedEmail = email?.trim().toLowerCase();
   const genericResponse = { ok: true, message: "If this email is authorized, a sign-in link has been sent." };
-  if (!normalizedEmail || normalizedEmail !== ADMIN_EMAIL) return NextResponse.json(genericResponse);
+  if (!normalizedEmail || !isAdminEmail(normalizedEmail)) return NextResponse.json(genericResponse);
 
   const resendApiKey = process.env.RESEND_API_KEY;
   const fromEmail = process.env.RESEND_FROM_EMAIL || "AgroCapital Website <onboarding@resend.dev>";
