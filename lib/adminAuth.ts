@@ -6,7 +6,8 @@ const defaultAdminEmails = ["agrocapital916.eg@gmail.com", "abahrawy20@gmail.com
 
 export const ADMIN_EMAILS = Array.from(
   new Set(
-    (process.env.ADMIN_EMAILS || process.env.ADMIN_EMAIL || defaultAdminEmails.join(","))
+    [...defaultAdminEmails, process.env.ADMIN_EMAILS || "", process.env.ADMIN_EMAIL || ""]
+      .join(",")
       .split(",")
       .map((email) => email.trim().toLowerCase())
       .filter(Boolean)
