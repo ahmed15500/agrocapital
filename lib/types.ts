@@ -24,6 +24,7 @@ export type Product = {
   registrationInfo: Localized;
   technicalSheet: string;
   featured: boolean;
+  status: "draft" | "published";
 };
 
 export type Post = {
@@ -36,6 +37,21 @@ export type Post = {
   image: string;
   publishedAt: string;
   featured: boolean;
+  status: "draft" | "published";
+};
+
+export type CmsData = {
+  site: SiteData;
+  products: Product[];
+  posts: Post[];
+};
+
+export type MediaAsset = {
+  url: string;
+  pathname: string;
+  uploadedAt: string;
+  size: number;
+  contentType: string;
 };
 
 export type SiteData = {
